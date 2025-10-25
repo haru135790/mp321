@@ -35,8 +35,8 @@ vialにはwebブラウザ版とアプリケーション版があり、ブラウ�
 
 ## 参考記事
 vialの詳細な使用方法については、こちらの記事がおすすめです。
-- [https://alektor.hatenablog.com/entry/2024/11/15/233435](【初心者向け】Vialでキーボードをカスタムしよう！ - A'sKey)
-- [https://salicylic-acid3.hatenablog.com/entry/vial-manual](（初心者編）Vialを使ってキーマップを書き換えよう - 自作キーボード温泉街の歩き方)
+- [https://alektor.hatenablog.com/entry/2024/11/15/233435](【初心者向け】Vialでキーボードをカスタムしよう！- A'sKey)
+- [https://salicylic-acid3.hatenablog.com/entry/vial-manual](（初心者編）Vialを使ってキーマップを書き換えよう-自作キーボード温泉街の歩き方)
 
 
 ## デフォルトキーマップ
