@@ -10,7 +10,7 @@ vialを使用してキー割り当てを自由に変更できます。
 注意点：USBケーブルは通信ができるものを使用してください。100均等で「充電専用」として販売されているものは使用出来ません。
 
 ## キー割り当ての変更
-本機のキー割り当ては「[https://get.vial.today](Vial)」というソフトウェアを使用することで変更できます。
+本機のキー割り当ては「[vial](https://get.vial.today)」というソフトウェアを使用することで変更できます。
 vialにはwebブラウザ版とアプリケーション版があり、ブラウザ版はChrome、アプリ版はWindows,macOS,Linuxで動作します。
 また、2025/10/21時点で、vialは日本語対応していません。ご注意ください。
 
@@ -35,8 +35,8 @@ vialにはwebブラウザ版とアプリケーション版があり、ブラウ�
 
 ## 参考記事
 vialの詳細な使用方法については、こちらの記事がおすすめです。
-- [https://alektor.hatenablog.com/entry/2024/11/15/233435]
-- [https://salicylic-acid3.hatenablog.com/entry/vial-manual]
+- [【初心者向け】Vialでキーボードをカスタムしよう！](https://alektor.hatenablog.com/entry/2024/11/15/233435)
+- [（初心者編）Vialを使ってキーマップを書き換えよう-自作キーボード温泉街の歩き方](https://salicylic-acid3.hatenablog.com/entry/vial-manual)
 
 
 ## デフォルトキーマップ
